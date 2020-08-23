@@ -1,4 +1,7 @@
 #MAC OS Files
+.DS_Store
 
 # .Docx files
 .docx
+
+.idea/
