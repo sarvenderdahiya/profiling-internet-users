@@ -2,6 +2,9 @@
 .DS_Store
 
 # .Docx files
-.docx
+*.docx
 
 .idea/
+
+# Venv Folder
+venv/
